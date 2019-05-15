@@ -8,8 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.20",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "lodash": "^4.17.11",
+    "moviedb-promise": "^1.3.2",
+    "vue": "^2.6.10",
+    "vue-bootstrap-typeahead": "^0.2.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
